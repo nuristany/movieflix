@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/movieflix/static/css/main.980ed1b8.css",
+    "main.js": "/movieflix/static/js/main.9bf59fa6.js",
+    "static/js/453.f0cb673c.chunk.js": "/movieflix/static/js/453.f0cb673c.chunk.js",
+    "static/media/viking.png": "/movieflix/static/media/viking.d6c86b6acb0ed0e44dce.png",
+    "static/media/jawaan.png": "/movieflix/static/media/jawaan.c1c4b5f5bf391aed66e7.png",
+    "static/media/laalsing.png": "/movieflix/static/media/laalsing.c9675db1b5708a6bab8a.png",
+    "static/media/Dunki.png": "/movieflix/static/media/Dunki.48eb3be781c257add9f7.png",
+    "static/media/sanju.png": "/movieflix/static/media/sanju.b0ea56e2422345a60ba4.png",
+    "static/media/dream-girl.png": "/movieflix/static/media/dream-girl.da51c4eefad4339eb150.png",
+    "static/media/choona.png": "/movieflix/static/media/choona.fc3e1bacb56a7cbcca05.png",
+    "static/media/bhool.png": "/movieflix/static/media/bhool.e529ee7e9ae86f39e0ae.png",
+    "static/media/Home Alone.png": "/movieflix/static/media/Home Alone.fd40d06ec5b255d57243.png",
+    "static/media/blade.png": "/movieflix/static/media/blade.926c010701c492dcc090.png",
+    "static/media/roommate.png": "/movieflix/static/media/roommate.847a21c783bf1050c6ab.png",
+    "static/media/Duplex.png": "/movieflix/static/media/Duplex.b6d0fcb74a1839f8a53a.png",
+    "static/media/norway.png": "/movieflix/static/media/norway.d78b2e09eae7a735607e.png",
+    "static/media/nirgen.png": "/movieflix/static/media/nirgen.9923b22aa43cbcba7272.png",
+    "static/media/Netflix_Logo_CMYK.png": "/movieflix/static/media/Netflix_Logo_CMYK.4bc1d7fc8dfefd1b57f7.png",
+    "index.html": "/movieflix/index.html",
+    "main.980ed1b8.css.map": "/movieflix/static/css/main.980ed1b8.css.map",
+    "main.9bf59fa6.js.map": "/movieflix/static/js/main.9bf59fa6.js.map",
+    "453.f0cb673c.chunk.js.map": "/movieflix/static/js/453.f0cb673c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.980ed1b8.css",
+    "static/js/main.9bf59fa6.js"
+  ]
+}
