@@ -96,7 +96,7 @@ body {
   overflow-y: auto; /* Enable vertical scrolling if needed */
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 768px) {
   .change {
     width: 100%;
   }
